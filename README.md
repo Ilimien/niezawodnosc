@@ -1,2 +1,1 @@
-# niezawodnosc
-pomiar niezawodności urządzeń elektrycznych
+# Reliability Indicators of Electrical Appliances
